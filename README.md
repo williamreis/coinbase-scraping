@@ -6,9 +6,9 @@ en-us
 
 Web scraping that extracts market information from the Coinbase website (https://www.coinbase.com/pt-br/explore) for the past 24 hours.
 
-'''
+```
 python3 main.py
-'''
+```
 
 After data extraction, it's up to you to decide on future implementations, such as storing it in a database or making it available through an API.
 
